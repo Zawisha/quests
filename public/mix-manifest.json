@@ -1,0 +1,8 @@
+{
+    "/js/site/app.js": "/js/site/app.js",
+    "/js/system/app.js": "/js/system/app.js",
+    "/css/system/app.css": "/css/system/app.css",
+    "/css/site/app.css": "/css/site/app.css",
+    "/css/system/app.min.css": "/css/system/app.min.css",
+    "/css/site/app.min.css": "/css/site/app.min.css"
+}
